@@ -1,0 +1,16 @@
+.env
+__pycache__/
+# 虚拟环境
+venv/
+.venv/
+
+# IDE 配置
+.idea/
+.vscode/
+
+*.py[cod]
+
+# 下载的测试文件
+downloads/
+*.bin
+*.part
